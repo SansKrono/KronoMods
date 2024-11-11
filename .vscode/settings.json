@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "RegisterMod",
+        "include"
+    ],
+    "files.associations": {
+        ".anm2": "xml"
+    }
+}
